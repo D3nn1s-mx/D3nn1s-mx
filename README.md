@@ -1,62 +1,70 @@
-
 # 👋 Moin, World! I'm D3NN1S-MX 👾
 
 **90s Kid // IT Enthusiast // Self-Taught Tech Nerd // Master of Disaster**
 
 `OLD SCHOOL ROOTS | NEXT-GEN MINDSET`
 
----
+## 🧬 My Digital DNA
 
-### 🧬 My Digital DNA
+Passionate about IT since childhood.
+From classic HTML and early Linux experiments
+to modern infrastructure, self-hosting and AI.
 
-- 🕹️ Passionate about computers and technology since childhood.
-- 🐧 From early Linux experiments and classic HTML to modern IT infrastructure.
-- 🛡️ Experience with malware and ransomware removal.
-- 🛠️ Unofficial IT support for family & friends.
-- 🔐 Passionate about cybersecurity, privacy and digital independence.
-- 🧠 Self-taught through curiosity, experimentation and modern tools.
-- 🤖 Exploring AI, automation and emerging technologies.
+Learning by doing, documentation, tutorials and AI.
+Curiosity is my operating system.
 
-### ⚙️ My Tech Universe
+## ⚙️ My Tech Universe
 
-- 🖥️ **Infrastructure:** Windows, Linux, Docker, Web Servers
-- ☁️ **Self-Hosting:** Nextcloud, Paperless-ngx, Homelab
-- 🌐 **Networking:** IPv4, IPv6, DNS, Reverse Proxy, Monitoring
-- 🛡️ **Security:** AdGuard, Pi-hole, VPN, Encrypted DNS
-- 💻 **Development:** HTML, CSS, Python, GitHub
-- 🤖 **Innovation:** AI, Automation, Open Source
+A mix of practical experience, interests
+and technologies I'm currently exploring.
 
-### 🌍 Languages
+- **Infrastructure:** Windows · Linux · Docker · Apache
+- **Self-Hosting:** Nextcloud · Paperless-ngx · Homelab
+- **Networking:** IPv4/IPv6 · DNS · Reverse Proxy · DynDNS
+- **Monitoring:** Health Checks · Status Pages
+- **Security:** AdGuard · Pi-hole · VPN · Encrypted DNS
+- **Development:** HTML · CSS · AI-assisted Python · GitHub
+- **Innovation:** AI · Automation · Open Source
+
+## 💼 Professional Experience
+
+- Technical support & troubleshooting
+- Printer & multifunction device support (MFP)
+- End-user support & ticket handling
+- Telephone & customer support
+
+## 🛠️ Personal Experience
+
+- IT & remote support for family & friends
+- Hardware & software troubleshooting
+- Malware & ransomware removal
+- Self-hosting & network administration
+
+## 🌐 Community
+
+- Active supporter of the Freifunk Community
+- Operating and maintaining my own Freifunk node
+- Digital freedom · Privacy · Open Source
+
+## 🚀 Currently Working On
+
+- D3NN1S-MX Homebase & Homelab
+- Network security & service monitoring
+- Status page & health checks
+- AI-assisted projects & automation
+
+## 🌍 Languages
 
 🇩🇪 German (C2) · 🇬🇧 English (Basic) · 🇳🇱 Dutch (A1)
 
 ---
 
-### 🕹️ From Dial-Up to the AI Era
+**From Dial-Up to the AI Era.**  
+Different technologies. Same curiosity.
 
-Different generations. Different technologies. Same curiosity.
-
-### 💭 My Philosophy
-
-It's not about knowing every command by heart. It's about asking the right questions, finding the right tools and turning ideas into solutions.
-
-**Curiosity is my operating system.**
-
-### 🖥️ Digital Identity
-
-- **Role:** Digital Problem Solver
-- **Mode:** Learning by Doing
-- **Mission:** Digital Independence
-- **Status:** 🟢 Always Evolving
-
----
-
-`CHAOS_MODE = ENABLED`
-
-`CURIOSITY = UNLIMITED`
-
+`CHAOS_MODE = ENABLED`  
 `ERROR_404: GIVING_UP_NOT_FOUND`
 
-🚀 **Explore. Learn. Break. Fix. Repeat.**
+**Explore. Learn. Break. Fix. Repeat.**
 
-`> MASTER OF DISASTER_`
+> MASTER OF DISASTER_
